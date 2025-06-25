@@ -1,0 +1,36 @@
+<!DOCTYPE MeshLabDocument>
+<MeshLabProject>
+ <MeshGroup>
+  <MLMesh idInFile="-1" label="burney_relief_queen_of_the_night_draft.ply" visible="1" filename="Parametrización/burney_relief_queen_of_the_night_draft.ply">
+   <MLMatrix44>
+1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 
+</MLMatrix44>
+   <RenderingOption solidColor="192 192 192 255" pointColor="252 233 79 255" pointSize="3" boxColor="234 234 234 255" wireColor="248 234 31 255" wireWidth="1">100001010000000000000100000001011010001010100000000100111010100000000001</RenderingOption>
+  </MLMesh>
+  <MLMesh idInFile="-1" label="burney_relief_queen_of_the_night_draft.ply_copy" visible="0" filename="Parametrización/burney_relief_queen_of_the_night_draft.ply">
+   <MLMatrix44>
+1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 
+</MLMatrix44>
+   <RenderingOption solidColor="192 192 192 255" pointColor="0 170 0 255" pointSize="2" boxColor="234 234 234 255" wireColor="0 85 255 255" wireWidth="1">100001010000000000000100010001011000001010100000000100111010010000000001</RenderingOption>
+  </MLMesh>
+  <MLMesh idInFile="-1" label="Poisson mesh" visible="0" filename="Parametrización/malla salvada relief queen of.ply">
+   <MLMatrix44>
+1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 
+</MLMatrix44>
+   <RenderingOption solidColor="85 85 255 255" pointColor="252 233 79 255" pointSize="3" boxColor="234 234 234 255" wireColor="64 64 64 255" wireWidth="1">100001010000000000000100000001011000001010100000000100111010100001000001</RenderingOption>
+  </MLMesh>
+  <MLMesh idInFile="-1" label="Poisson mesh(1)" visible="1" filename="Parametrización/Poisson mesh(1).ply">
+   <MLMatrix44>
+1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 
+</MLMatrix44>
+   <RenderingOption solidColor="20 153 255 255" pointColor="252 233 79 255" pointSize="3" boxColor="234 234 234 255" wireColor="3 163 249 255" wireWidth="1">100001010000000000000100000001011010001010100000000100111010100000000001</RenderingOption>
+  </MLMesh>
+  <MLMesh idInFile="-1" label="malla salvada relief queen of.ply" visible="0" filename="malla salvada relief queen of.ply">
+   <MLMatrix44>
+1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 
+</MLMatrix44>
+   <RenderingOption solidColor="248 248 248 255" pointColor="252 233 79 255" pointSize="3" boxColor="234 234 234 255" wireColor="64 64 64 255" wireWidth="1">100001010000000000000100000001011010001010100000000100111010100000000001</RenderingOption>
+  </MLMesh>
+ </MeshGroup>
+ <RasterGroup/>
+</MeshLabProject>
